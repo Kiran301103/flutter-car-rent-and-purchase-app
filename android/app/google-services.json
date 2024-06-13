@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816063031288",
+    "project_id": "car-app-5917d",
+    "storage_bucket": "car-app-5917d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816063031288:android:3653b2436d5584ba4ed80d",
+        "android_client_info": {
+          "package_name": "com.example.world_of_journey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF2a8EAsBGZGGq9-P7tCb3yHcX5vbs5MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
