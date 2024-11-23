@@ -1,3 +1,10 @@
+World_of _journey
+For full details of the project:
+->Interdisciplinary project
+  ->Kiran M- 41120094 PT2 FINAL REPORT.docx
+  ->Kiran M- 41120094 PT2 FINAL REPORT (2).pdf
+  ->kiran pt-2 final ppt.pptx
+
 The Car Rental and Purchase Management System is a comprehensive Flutter project aimed at facilitating the process of both renting and buying cars through a user-friendly mobile application. The system caters to the needs of both individuals and businesses, offering a seamless experience for users looking to rent a car for short-term use or purchase a vehicle for long-term ownership.
 
 The project incorporates key features such as user authentication, car browsing, booking/reservation system, payment integration, and administrative functionalities. Users can easily browse through available cars, view detailed information including specifications and rental/purchase pricing, and make bookings or purchases directly through the app.
